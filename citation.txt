@@ -1,0 +1,7 @@
+@inproceedings{REPO-120,
+    author = "Liu, Zhining and Cao, Wei and Gao, Zhifeng and Bian, Jiang and Chen, Hechang and Chang, Yi and Liu, Tie-Yan",
+    booktitle = "2020 IEEE 36th international conference on data engineering (ICDE)",
+    pages = "841--852",
+    title = "{Self-paced Ensemble for Highly Imbalanced Massive Data Classification}",
+    year = "2020"
+}
